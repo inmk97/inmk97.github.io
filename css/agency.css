@@ -510,10 +510,5 @@ ul.social-buttons {
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
       background-color: #e74c3c; }
 
-.financials {
-  font-weight: 700;
-  color: #ced4da;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
-
 select, option {
   width: 200px; }
